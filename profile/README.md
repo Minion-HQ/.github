@@ -2,7 +2,7 @@
 
 # Minion-HQ
 
-Welcome to Minion HQ we do stuff for GRU
+Welcome to Minion HQ we do proxys and games cus why not
 
 
 
