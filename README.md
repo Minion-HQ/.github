@@ -1,1 +1,2 @@
-# .github
+# Minion HQ
+we do stuff
